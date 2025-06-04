@@ -5,21 +5,7 @@
 
 A C++ based simulation of a file storage system using a 10MB Virtual Hard Disk (VHD). This educational project replicates the core functionalities of modern file systems—like file creation, deletion, modification, defragmentation, and metadata management—through custom data structures.
 
-
-
-
-##  Table of Contents
-
-* [Introduction](#-introduction)
-* [Project Objectives](#-project-objectives)
-* [System Architecture](#-system-architecture)
-* [Key Features](#-key-features)
-* [Technologies Used](#-technologies-used)
-* [Data Structures](#-data-structures)
-* [Usage](#-usage)
-* [Challenges & Solutions](#-challenges--solutions)
-* [Future Work](#-future-work)
-
+![image](https://github.com/user-attachments/assets/b9b5fd8f-2e27-410f-8dc5-87c816933128)
 
 
 ##  Introduction
@@ -80,9 +66,6 @@ The 10MB `File_System` file is divided into:
 | File Manager       | Hybrid of vector + map               | Combines indexing and direct file retrieval |
 
 
-
-
-
  **Available operations:**
 
    * Add a new file
@@ -94,6 +77,7 @@ The 10MB `File_System` file is divided into:
 
 > Note: The system auto-loads from `File_System` if it already exists, otherwise it initializes a new file.
 
+<img width="848" alt="Screenshot 2025-06-04 at 11 25 11 PM" src="https://github.com/user-attachments/assets/ca9679ff-179c-4c54-8b36-4a6f6dd63aea" />
 
 
 ## Challenges & Solutions
