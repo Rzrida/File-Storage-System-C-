@@ -1,6 +1,3 @@
-# File-Storage-System-Cpp-
-
-
 #  File Storage System - Virtual Hard Disk Simulation
 
 A C++ based simulation of a file storage system using a 10MB Virtual Hard Disk (VHD). This educational project replicates the core functionalities of modern file systems—like file creation, deletion, modification, defragmentation, and metadata management—through custom data structures.
